@@ -19,4 +19,5 @@ fn main() {
   // Print text to the console
   // コンソールに文字列を出力する
   println!("Hello World!");
+  println!("I'm a Rustacean!")
 }
